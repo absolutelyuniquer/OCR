@@ -46,3 +46,4 @@ def transcribe(
     word_timestamps: bool = False,
     prepend_punctuations: str = "\"'“¿([{-",
     FRAMES_PER_SECOND,
+    HOP_LENGTH,
