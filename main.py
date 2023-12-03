@@ -47,3 +47,4 @@ def transcribe(
     prepend_punctuations: str = "\"'“¿([{-",
     FRAMES_PER_SECOND,
     HOP_LENGTH,
+    N_FRAMES,
