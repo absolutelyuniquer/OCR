@@ -49,3 +49,4 @@ def transcribe(
     HOP_LENGTH,
     N_FRAMES,
 import warnings
+from typing import TYPE_CHECKING, Optional, Tuple, Union
