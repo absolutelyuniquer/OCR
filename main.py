@@ -48,3 +48,4 @@ def transcribe(
     FRAMES_PER_SECOND,
     HOP_LENGTH,
     N_FRAMES,
+import warnings
