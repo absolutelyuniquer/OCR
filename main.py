@@ -61,3 +61,4 @@ from .audio import (
     N_FRAMES,
     N_SAMPLES,
     SAMPLE_RATE,
+    log_mel_spectrogram,
