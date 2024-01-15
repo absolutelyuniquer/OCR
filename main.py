@@ -103,3 +103,4 @@ def transcribe(
     Parameters
     ----------
     model: Whisper
+        The Whisper model instance
