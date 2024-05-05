@@ -126,3 +126,4 @@ def transcribe(
         If the no_speech probability is higher than this value AND the average log probability
         over sampled tokens is below `logprob_threshold`, consider the segment as silent
 
+    condition_on_previous_text: bool
