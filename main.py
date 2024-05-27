@@ -142,3 +142,4 @@ def transcribe(
         If word_timestamps is True, merge these punctuation symbols with the previous word
 
     initial_prompt: Optional[str]
+from typing import TYPE_CHECKING, Optional, Tuple, Union
