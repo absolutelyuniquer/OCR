@@ -143,3 +143,4 @@ def transcribe(
 
     initial_prompt: Optional[str]
 from typing import TYPE_CHECKING, Optional, Tuple, Union
+
