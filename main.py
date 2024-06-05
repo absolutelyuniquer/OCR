@@ -153,3 +153,4 @@ from .audio import (
     HOP_LENGTH,
     N_FRAMES,
     N_SAMPLES,
+    SAMPLE_RATE,
