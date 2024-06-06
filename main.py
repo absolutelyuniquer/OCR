@@ -157,3 +157,4 @@ from .audio import (
     log_mel_spectrogram,
     pad_or_trim,
 )
+from .decoding import DecodingOptions, DecodingResult
