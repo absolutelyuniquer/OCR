@@ -165,3 +165,4 @@ from .utils import (
     format_timestamp,
     get_writer,
     make_safe,
+    optional_float,
