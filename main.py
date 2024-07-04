@@ -187,3 +187,4 @@ def transcribe(
     initial_prompt: Optional[str] = None,
     word_timestamps: bool = False,
     prepend_punctuations: str = "\"'“¿([{-",
+    append_punctuations: str = "\"'.。,，!！?？:：”)]}、",
