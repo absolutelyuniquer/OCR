@@ -191,3 +191,4 @@ def transcribe(
     **decode_options,
 ):
     """
+    Transcribe an audio file using Whisper
