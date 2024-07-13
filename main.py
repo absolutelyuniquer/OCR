@@ -198,3 +198,4 @@ def transcribe(
     model: Whisper
         The Whisper model instance
 
+    audio: Union[str, np.ndarray, torch.Tensor]
