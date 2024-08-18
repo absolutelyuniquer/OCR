@@ -202,3 +202,4 @@ def transcribe(
         The path to the audio file to open, or the audio waveform
 
 import warnings
+from typing import TYPE_CHECKING, Optional, Tuple, Union
