@@ -218,3 +218,4 @@ from .audio import (
     pad_or_trim,
 )
 from .decoding import DecodingOptions, DecodingResult
+from .timing import add_word_timestamps
