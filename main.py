@@ -234,3 +234,4 @@ if TYPE_CHECKING:
     from .model import Whisper
 
 
+def transcribe(
