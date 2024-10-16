@@ -255,3 +255,4 @@ def transcribe(
 
     Parameters
     ----------
+    model: Whisper
