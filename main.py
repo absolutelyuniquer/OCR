@@ -261,3 +261,4 @@ def transcribe(
     audio: Union[str, np.ndarray, torch.Tensor]
         The path to the audio file to open, or the audio waveform
 
+    verbose: bool
