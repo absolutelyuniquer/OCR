@@ -270,3 +270,4 @@ def transcribe(
         upon failures according to either `compression_ratio_threshold` or `logprob_threshold`.
 
     compression_ratio_threshold: float
+        If the gzip compression ratio is above this value, treat as failed
