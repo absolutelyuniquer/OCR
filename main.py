@@ -269,3 +269,4 @@ def transcribe(
         Temperature for sampling. It can be a tuple of temperatures, which will be successively used
         upon failures according to either `compression_ratio_threshold` or `logprob_threshold`.
 
+    compression_ratio_threshold: float
