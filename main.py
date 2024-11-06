@@ -274,3 +274,4 @@ def transcribe(
 
     logprob_threshold: float
         If the average log probability over sampled tokens is below this value, treat as failed
+
