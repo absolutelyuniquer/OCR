@@ -285,3 +285,4 @@ def transcribe(
         getting stuck in a failure loop, such as repetition looping or timestamps going out of sync.
 
     word_timestamps: bool
+        Extract word-level timestamps using the cross-attention pattern and dynamic time warping,
