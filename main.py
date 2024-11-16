@@ -291,3 +291,4 @@ def transcribe(
     prepend_punctuations: str
         If word_timestamps is True, merge these punctuation symbols with the next word
 
+    append_punctuations: str
