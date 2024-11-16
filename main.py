@@ -288,3 +288,4 @@ def transcribe(
         Extract word-level timestamps using the cross-attention pattern and dynamic time warping,
         and include the timestamps for each word in each segment.
 
+    prepend_punctuations: str
