@@ -299,3 +299,4 @@ def transcribe(
         "prompt-engineer" a context for transcription, e.g. custom vocabularies or proper nouns
         to make it more likely to predict those word correctly.
 
+import traceback
