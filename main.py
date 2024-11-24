@@ -300,3 +300,4 @@ def transcribe(
         to make it more likely to predict those word correctly.
 
 import traceback
+import warnings
