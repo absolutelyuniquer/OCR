@@ -315,3 +315,4 @@ from .audio import (
     SAMPLE_RATE,
     log_mel_spectrogram,
     pad_or_trim,
+)
