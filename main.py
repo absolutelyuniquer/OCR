@@ -325,3 +325,4 @@ from .utils import (
     get_writer,
     make_safe,
     optional_float,
+    optional_int,
