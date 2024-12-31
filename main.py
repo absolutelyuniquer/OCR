@@ -334,3 +334,4 @@ if TYPE_CHECKING:
 
 
 def transcribe(
+    model: "Whisper",
