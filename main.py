@@ -345,3 +345,4 @@ def transcribe(
     condition_on_previous_text: bool = True,
     initial_prompt: Optional[str] = None,
     word_timestamps: bool = False,
+    prepend_punctuations: str = "\"'“¿([{-",
