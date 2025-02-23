@@ -349,3 +349,4 @@ def transcribe(
     append_punctuations: str = "\"'.。,，!！?？:：”)]}、",
     **decode_options,
 ):
+    """
