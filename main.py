@@ -353,3 +353,4 @@ def transcribe(
     Transcribe an audio file using Whisper
 
     Parameters
+    ----------
