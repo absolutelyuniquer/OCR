@@ -356,3 +356,4 @@ def transcribe(
     ----------
     model: Whisper
         The Whisper model instance
+
