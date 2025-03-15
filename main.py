@@ -364,3 +364,4 @@ def transcribe(
         Whether to display the text being decoded to the console. If True, displays all the details,
         If False, displays minimal details. If None, does not display anything
 
+    temperature: Union[float, Tuple[float, ...]]
