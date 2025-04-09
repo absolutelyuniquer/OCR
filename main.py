@@ -379,3 +379,4 @@ def transcribe(
         over sampled tokens is below `logprob_threshold`, consider the segment as silent
 
     condition_on_previous_text: bool
+        if True, the previous output of the model is provided as a prompt for the next window;
