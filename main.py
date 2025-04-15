@@ -381,3 +381,4 @@ def transcribe(
     condition_on_previous_text: bool
         if True, the previous output of the model is provided as a prompt for the next window;
         disabling may make the text inconsistent across windows, but the model becomes less prone to
+        getting stuck in a failure loop, such as repetition looping or timestamps going out of sync.
