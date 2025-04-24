@@ -394,3 +394,4 @@ def transcribe(
         If word_timestamps is True, merge these punctuation symbols with the previous word
 
     initial_prompt: Optional[str]
+        Optional text to provide as a prompt for the first window. This can be used to provide, or
