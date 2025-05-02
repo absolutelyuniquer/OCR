@@ -407,3 +407,4 @@ import torch
 import tqdm
 
 from .audio import (
+    FRAMES_PER_SECOND,
