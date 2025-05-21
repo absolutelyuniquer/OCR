@@ -425,3 +425,4 @@ from .utils import (
     make_safe,
     optional_float,
     optional_int,
+    str2bool,
