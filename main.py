@@ -447,3 +447,4 @@ def transcribe(
     prepend_punctuations: str = "\"'“¿([{-",
     append_punctuations: str = "\"'.。,，!！?？:：”)]}、",
     **decode_options,
+):
