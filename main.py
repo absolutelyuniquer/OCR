@@ -460,3 +460,4 @@ def transcribe(
         The path to the audio file to open, or the audio waveform
 
     verbose: bool
+        Whether to display the text being decoded to the console. If True, displays all the details,
