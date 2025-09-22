@@ -462,3 +462,4 @@ def transcribe(
     verbose: bool
         Whether to display the text being decoded to the console. If True, displays all the details,
         If False, displays minimal details. If None, does not display anything
+
