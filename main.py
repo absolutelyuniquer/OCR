@@ -471,3 +471,4 @@ def transcribe(
         If the gzip compression ratio is above this value, treat as failed
 
     logprob_threshold: float
+        If the average log probability over sampled tokens is below this value, treat as failed
